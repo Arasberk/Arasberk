@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arasberk</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arasberk&label=Profile%20views&color=0e75b6&style=flat" alt="arasberk" /> </p>
 
-<p align="left"> <a href="https://steamcommunity.com/id/ArasBerk/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" alt="arasberk" /></a> </p>
+<p align="left"> <a href="https://steamcommunity.com/id/ArasBerk/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" width="128" height="128" alt="arasberk" /></a> </p>
 
 
 <p align="left">
